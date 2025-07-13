@@ -7,18 +7,16 @@
 ## Why use it?
 
 * **Instant feedback.** Hear changes the moment you move a slider.
-* **Rich preset library.** Forty hand-tuned programs span Delta, Theta, Alpha, Beta, and Gamma ranges.
+* **Rich preset library.** Forty hand‑tuned programs span Delta, Theta, Alpha, Beta, and Gamma ranges.
 * **Visual learning.** A live oscilloscope + envelope plot shows exactly how the two tones interact.
 * **Custom workflow.** Save, edit, and delete your own combinations; everything lives in a simple JSON file next to the script.
-* **Portable audio.** Render any session to a high-quality 44.1 kHz stereo WAV for phone playback or DAW import.
+* **Portable audio.** Render any session to a high‑quality 44.1 kHz stereo WAV for phone playback or DAW import.
 
 ---
 
 ## Screenshot
 
-```
-Place holder
-```
+![Main interface](docs/Screenshot%202025-07-13%20191309.png)
 
 ---
 
@@ -26,7 +24,7 @@ Place holder
 
 ### Prerequisites
 
-* **Python 3.9+** (CPython or Anaconda)
+* **Python 3.9+** (CPython or Anaconda)
 * **Headphones** (binaural beats do not work over mono speakers)
 
 ### Dependencies
@@ -51,24 +49,24 @@ python BinauralLab.py
 ```
 
 1. **Pick a preset** from the tree or dial in your own values.
-2. Hit **Start** to begin playback; **Stop** halts it.
-3. Tweak sliders in real time audio and plot stay in sync.
-4. Click **Save** to store the current settings, or **Delete** to remove a saved program.
-5. Click **Export** to write a stereo WAV (you’ll be asked for duration and save path).
+2. Hit **▶ Start** to begin playback; **■ Stop** halts it.
+3. Tweak sliders in real time—audio and plot stay in sync.
+4. Click **💾 Save** to store the current settings, or **🗑️ Delete** to remove a saved program.
+5. Click **⬇ Export** to write a stereo WAV (you’ll be asked for duration and save path).
 
 ---
 
 ## Preset families
 
-| Band *(Hz)*         | Typical effect                     | Included programmes                                 |
-| ------------------- | ---------------------------------- | --------------------------------------------------- |
-| **Delta (0.5 – 4)** | Deep sleep, healing, astral drift  | *Delta Sleep*, *Float State*, *Astral Hum*          |
-| **Theta (4 – 8)**   | Meditation, creative insight, OBE  | *Theta Meditation*, *Gateway Voyage*, *Lucid Entry* |
-| **Alpha (8 – 12)**  | Calm focus, memory, light trance   | *Alpha Creativity*, *Mind Mirror*, *Focus 10*       |
-| **Beta (13 – 30)**  | Alertness, problem-solving, energy | *Beta Cognition*, *Peak Focus*, *Focus 21*          |
-| **Gamma (30 – 50)** | Integration, heightened awareness  | *Gamma Integration*, *Gamma Consciousness*          |
+| Band *(Hz)*       | Typical effect                     | Included programmes                                 |
+| ----------------- | ---------------------------------- | --------------------------------------------------- |
+| **Delta (0.5–4)** | Deep sleep, healing, astral drift  | *Delta Sleep*, *Float State*, *Astral Hum*          |
+| **Theta (4–8)**   | Meditation, creative insight, OBE  | *Theta Meditation*, *Gateway Voyage*, *Lucid Entry* |
+| **Alpha (8–12)**  | Calm focus, memory, light trance   | *Alpha Creativity*, *Mind Mirror*, *Focus 10*       |
+| **Beta (13–30)**  | Alertness, problem‑solving, energy | *Beta Cognition*, *Peak Focus*, *Focus 21*          |
+| **Gamma (30–50)** | Integration, heightened awareness  | *Gamma Integration*, *Gamma Consciousness*          |
 
-*(See `binaural_presets.json` for all definitions or browse them in-app.)*
+*(See `binaural_presets.json` for all definitions or browse them in‑app.)*
 
 ---
 
@@ -77,17 +75,17 @@ python BinauralLab.py
 ```
 BinauralBeatLab/
 ├─ BinauralLab.py          → main application script
-├─ binaural_presets.json   → auto-generated on first run
+├─ binaural_presets.json   → auto‑generated on first run
 ├─ requirements.txt        → optional, pin versions for CI
 └─ docs/
-   └─ screenshot.png       → optional images for README
+   └─ Screenshot 2025-07-13 191309.png → screenshot used in README
 ```
 
 `binaural_presets.json` is regenerated with default content the first time you launch the program, then updated whenever you add or delete a preset. Commit this file if you want to share your custom tones.
 
 ---
 
-## Building a one-click `.exe` (optional, Windows)
+## Building a one‑click `.exe` (optional, Windows)
 
 ```bash
 pip install pyinstaller
@@ -126,6 +124,6 @@ Please run `flake8` on any new code and update this README if behaviour changes.
 ## Acknowledgements
 
 * Heinrich Wilhelm Dove and the researchers who pioneered auditory beat stimulation
-* The open-source community behind **NumPy**, **SciPy**, **Matplotlib**, and **SoundDevice** — this project stands on your shoulders.
+* The open‑source community behind **NumPy**, **SciPy**, **Matplotlib**, and **SoundDevice** — this project stands on your shoulders.
 
 Happy tuning, and may your brainwaves find their perfect resonance! 🧠🎧
