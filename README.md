@@ -49,10 +49,10 @@ python BinauralLab.py
 ```
 
 1. **Pick a preset** from the tree or dial in your own values.
-2. Hit **▶ Start** to begin playback; **■ Stop** halts it.
+2. Hit **Start** to begin playback; **Stop** halts it.
 3. Tweak sliders in real time—audio and plot stay in sync.
-4. Click **💾 Save** to store the current settings, or **🗑️ Delete** to remove a saved program.
-5. Click **⬇ Export** to write a stereo WAV (you’ll be asked for duration and save path).
+4. Click **Save** to store the current settings, or **Delete** to remove a saved program.
+5. Click **Export** to write a stereo WAV (you’ll be asked for duration and save path).
 
 ---
 
