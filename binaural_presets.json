@@ -1,0 +1,207 @@
+{
+    "Delta Sleep": {
+        "carrier": 120.0,
+        "beat": 3.5,
+        "desc": "Delta rhythm for restful, deep sleep."
+    },
+    "Delta Healing": {
+        "carrier": 100.0,
+        "beat": 2.5,
+        "desc": "Deep delta for physical healing and regeneration."
+    },
+    "Delta Renewal": {
+        "carrier": 100.0,
+        "beat": 1.0,
+        "desc": "Ultra-low delta for cellular repair."
+    },
+    "Deep Sleep": {
+        "carrier": 100.0,
+        "beat": 1.5,
+        "desc": "Sub-delta drift: ideal for deep sleep and hypnosis."
+    },
+    "Float State": {
+        "carrier": 80.0,
+        "beat": 0.5,
+        "desc": "Delta flotation state for deep introspection."
+    },
+    "Astral Hum": {
+        "carrier": 30.0,
+        "beat": 0.7,
+        "desc": "Sub-delta hum to ease into astral travel."
+    },
+    "Focus 3": {
+        "carrier": 200.0,
+        "beat": 3.0,
+        "desc": "Monroe Institute Focus 3 pre-hypnagogic state."
+    },
+    "Theta Relax": {
+        "carrier": 200.0,
+        "beat": 6.0,
+        "desc": "Gentle theta for relaxation and stress reduction."
+    },
+    "Theta Meditation": {
+        "carrier": 250.0,
+        "beat": 5.0,
+        "desc": "Theta rhythm for deep meditation."
+    },
+    "Theta Insight": {
+        "carrier": 220.0,
+        "beat": 7.0,
+        "desc": "Theta for creative insights and intuition."
+    },
+    "Gateway Voyage": {
+        "carrier": 100.0,
+        "beat": 4.0,
+        "desc": "Access deeper mind states, OBEs."
+    },
+    "Lucid Entry": {
+        "carrier": 140.0,
+        "beat": 6.0,
+        "desc": "High-theta for lucid dreaming."
+    },
+    "Deep Theta OBE": {
+        "carrier": 180.0,
+        "beat": 5.5,
+        "desc": "Theta tuned for out-of-body induction."
+    },
+    "Astra Journey": {
+        "carrier": 210.0,
+        "beat": 7.5,
+        "desc": "Theta blend for guided astral exploration."
+    },
+    "OBE Induction": {
+        "carrier": 130.0,
+        "beat": 4.5,
+        "desc": "Hemi-Sync out-of-body induction pattern."
+    },
+    "Patterning": {
+        "carrier": 110.0,
+        "beat": 7.0,
+        "desc": "Hemi-Sync patterning for visualization."
+    },
+    "Stargate Schumann": {
+        "carrier": 100.0,
+        "beat": 7.83,
+        "desc": "Schumann resonance for clarity."
+    },
+    "Stargate Protocol I": {
+        "carrier": 90.0,
+        "beat": 6.5,
+        "desc": "Project Stargate training pattern I."
+    },
+    "Alpha Relax": {
+        "carrier": 300.0,
+        "beat": 10.0,
+        "desc": "Alpha for calm and stress relief."
+    },
+    "Alpha Creativity": {
+        "carrier": 270.0,
+        "beat": 8.0,
+        "desc": "Alpha to boost creative thinking."
+    },
+    "Alpha Focus": {
+        "carrier": 260.0,
+        "beat": 12.0,
+        "desc": "Upper alpha for improved concentration."
+    },
+    "Alpha Memory": {
+        "carrier": 240.0,
+        "beat": 9.0,
+        "desc": "Alpha to enhance memory retention."
+    },
+    "Mind Mirror": {
+        "carrier": 150.0,
+        "beat": 8.0,
+        "desc": "Alpha/SMR blend for clarity."
+    },
+    "Light Journey": {
+        "carrier": 200.0,
+        "beat": 10.0,
+        "desc": "Alpha exploration for awareness."
+    },
+    "Focus 10": {
+        "carrier": 100.0,
+        "beat": 10.0,
+        "desc": "Mind awake, body asleep state."
+    },
+    "Focus 12": {
+        "carrier": 100.0,
+        "beat": 12.0,
+        "desc": "Expanded awareness state."
+    },
+    "Stargate Protocol II": {
+        "carrier": 90.0,
+        "beat": 9.5,
+        "desc": "Project Stargate pattern II."
+    },
+    "Beta Focus": {
+        "carrier": 210.0,
+        "beat": 14.0,
+        "desc": "Low beta for focused attention."
+    },
+    "Beta Cognition": {
+        "carrier": 200.0,
+        "beat": 16.0,
+        "desc": "Mid beta for analytical thinking."
+    },
+    "Beta Alertness": {
+        "carrier": 160.0,
+        "beat": 18.0,
+        "desc": "High beta for alertness."
+    },
+    "Beta Energy": {
+        "carrier": 150.0,
+        "beat": 20.0,
+        "desc": "High beta for motivation."
+    },
+    "Beta Performance": {
+        "carrier": 180.0,
+        "beat": 22.0,
+        "desc": "Peak beta for performance."
+    },
+    "Peak Focus": {
+        "carrier": 250.0,
+        "beat": 14.0,
+        "desc": "Low-beta concentration boost."
+    },
+    "Brain Spark": {
+        "carrier": 200.0,
+        "beat": 25.0,
+        "desc": "High-beta spark for alertness."
+    },
+    "Focus 15": {
+        "carrier": 200.0,
+        "beat": 15.0,
+        "desc": "Focus 15: no-time awareness."
+    },
+    "Focus 21": {
+        "carrier": 150.0,
+        "beat": 21.0,
+        "desc": "Focus 21: astral time travel."
+    },
+    "Focus 27": {
+        "carrier": 150.0,
+        "beat": 27.0,
+        "desc": "Focus 27: exploration."
+    },
+    "Gamma Integration": {
+        "carrier": 400.0,
+        "beat": 30.0,
+        "desc": "Gamma for information integration."
+    },
+    "Gamma Learning": {
+        "carrier": 360.0,
+        "beat": 35.0,
+        "desc": "Gamma for accelerated learning."
+    },
+    "Gamma Cognition": {
+        "carrier": 420.0,
+        "beat": 40.0,
+        "desc": "High gamma for cognition."
+    },
+    "Gamma Consciousness": {
+        "carrier": 300.0,
+        "beat": 45.0,
+        "desc": "Gamma for expanded awareness."
+    }
+}
