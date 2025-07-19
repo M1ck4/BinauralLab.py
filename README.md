@@ -1,4 +1,4 @@
-# Binaural Lab Suite
+# Binaural Lab
 
 *An experimental, real-time audio consciousness toolkit, featuring binaural beats, personal resonance mapping, and looping affirmations. This software is designed for researchers, seekers, creatives, and the simply curious, and should be used with openness and discernment. It is not a therapeutic product, but a tool for inner exploration and sonic self-inquiry.*
 
