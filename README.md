@@ -4,8 +4,6 @@
 
 ---
 
-## Overview
-
 ### Interface Previews
 
 #### 🧠 Binaural Beat Lab
