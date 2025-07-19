@@ -1,12 +1,12 @@
 # Binaural Lab Suite
 
-*An experimental, real-time audio consciousness toolkit — featuring binaural beats, personal resonance mapping, and looping affirmations. This software is designed for researchers, seekers, creatives, and the simply curious, and should be used with openness and discernment. It is not a therapeutic product, but a tool for inner exploration and sonic self-inquiry.*
+*An experimental, real-time audio consciousness toolkit, featuring binaural beats, personal resonance mapping, and looping affirmations. This software is designed for researchers, seekers, creatives, and the simply curious, and should be used with openness and discernment. It is not a therapeutic product, but a tool for inner exploration and sonic self-inquiry.*
 
 ---
 
 ## Overview
 
-**Binaural Lab** began as a tool for exploring the cognitive effects of auditory beat frequencies — now, it’s grown into a modular sound exploration suite. This project enables:
+**Binaural Lab** began as a tool for exploring the cognitive effects of auditory beat frequencies; now, it’s grown into a modular sound exploration suite. This project enables:
 
 - Crafting binaural beat presets in real time
 - Discovering your body's personal resonant frequencies
@@ -108,7 +108,7 @@ python BinauralLab.py
    - Starts or halts real-time playback.
    - Playback uses `sounddevice` and is precise to the sample block.
 
-7. **✨ Consciousness Resonator**
+7. ** Consciousness Resonator**
 
    - Launches a tuner that allows you to hum or sample frequencies that feel aligned to you.
    - **Instructions:** Begin by humming gently to get a general sense of where in your range you feel most resonant. Then hum a higher note and slowly lower it until it matches the tone your body seems to recognize internally — a frequency that makes your chest vibrate, feels "open," or resonates in your head or throat.
@@ -116,7 +116,7 @@ python BinauralLab.py
    - **Technical note:** Due to recording imperfections and variability in microphones, the recorded tone is approximate. The purpose is to help you discover a *felt sense*, not a scientific measurement. Follow your own bodily cues above all else.
    - Once you find a satisfying tone, press **Mark** to save it. It becomes available in the Lab as “Personal Resonance #...” for easy re-use.
 
-8. **🔁 Affirmation Loop**
+8. ** Affirmation Loop**
 
    - Opens a window to enter affirmations via voice or text.
    - Plays them in a loop alongside your tones.
