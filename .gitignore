@@ -1,0 +1,22 @@
+# ─── Python cache ───────────────────────────────
+__pycache__/
+*.pyc
+
+# ─── User-generated data ────────────────────────
+user_resonance.json
+affirmations/affirmations.json
+
+# ─── Exported audio ─────────────────────────────
+*.wav
+tmp.wav
+
+# ─── PyInstaller build artifacts ────────────────
+build/
+dist/
+*.spec
+
+# ─── OS or IDE files (optional) ────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
