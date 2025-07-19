@@ -1,8 +1,10 @@
 numpy>=1.22
-sounddevice>=0.4.6
 scipy>=1.9
+sounddevice>=0.4.6
+soundfile>=0.12
 matplotlib>=3.5
+pyttsx3>=2.90  # for text-to-speech in affirmation_loop.py
 
-# Optional / dev tools
-# flake8>=6.0      # code-style checks
-# pyinstaller>=6.0 # build standalone executables
+# Optional / Dev Tools
+# flake8>=6.0       # code style checks (optional)
+# pyinstaller>=6.0  # build standalone executables (optional)
