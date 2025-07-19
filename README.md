@@ -21,7 +21,10 @@
 #### 🌀 Consciousness Resonator
 
 ![Consciousness Resonator](https://github.com/M1ck4/BinauralLab.py/blob/main/docs/consciousness_resonator.png)
+
 *Find your personal resonant tone through tuning, humming, or importing samples. Visual feedback and real-time frequency output help guide internal alignment.*
+
+---
 
 **Binaural Lab** began as a tool for exploring the cognitive effects of auditory beat frequencies, now, it’s grown into a modular sound exploration suite. This project enables:
 
