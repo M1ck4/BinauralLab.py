@@ -34,6 +34,25 @@ Each feature was designed with a specific goal:
 These modules are interconnected. Your discovered resonances appear automatically as presets in the Lab, and affirmations run independently while tones play.
 
 ---
+### Interface Previews
+
+#### Binaural Beat Lab  
+![Binaural Beat Lab](https://github.com/M1ck4/BinauralLab.py/blob/main/docs/binaural_lab.png)  
+*Design and audition custom binaural beat configurations with real-time waveform visualization and preset management.*
+
+---
+
+#### Affirmation Loop  
+![Affirmation Loop](https://github.com/M1ck4/BinauralLab.py/blob/main/docs/affirmations.png)  
+*Create, save, and loop voice-recorded or text-to-speech affirmations. Fine-tune volume, duration, and playback style in a clean library-based UI.*
+
+---
+
+#### Consciousness Resonator  
+![Consciousness Resonator](https://github.com/M1ck4/BinauralLab.py/blob/main/docs/consciousness_resonator.png)  
+*Find your personal resonant tone through tuning, humming, or importing samples. Visual feedback and real-time frequency output help guide internal alignment.*
+
+---
 
 ## Why Use This?
 
