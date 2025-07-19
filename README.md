@@ -18,7 +18,7 @@
 ![Affirmation Loop](https://github.com/M1ck4/BinauralLab.py/blob/main/docs/affirmations.png)
 *Create, save, and loop voice-recorded or text-to-speech affirmations. Fine-tune volume, duration, and playback style in a clean library-based UI.*
 
-#### ✨ Consciousness Resonator
+#### 🌀 Consciousness Resonator
 
 ![Consciousness Resonator](https://github.com/M1ck4/BinauralLab.py/blob/main/docs/consciousness_resonator.png)
 *Find your personal resonant tone through tuning, humming, or importing samples. Visual feedback and real-time frequency output help guide internal alignment.*
@@ -102,7 +102,7 @@ python BinauralLab.py
 
 2. **Carrier Frequency Slider**
 
-   * This sets the base frequency for both ears — typically between 100–400 Hz.
+   * This sets the base frequency for both ears, typically between 100–400 Hz.
    * A low carrier may produce a deeper body resonance, while higher carriers feel lighter.
 
 3. **Beat Frequency Slider (Δf)**
@@ -118,7 +118,7 @@ python BinauralLab.py
 5. **Live Plotting**
 
    * The upper graph shows the left and right waveforms.
-   * The lower graph shows the envelope of their interference — this is what the brain entrains to.
+   * The lower graph shows the envelope of their interference, this is what the brain entrains to.
 
 6. **Start / Stop**
 
@@ -127,7 +127,7 @@ python BinauralLab.py
 
 7. **Consciousness Resonator**
 
-   * The Consciousness Resonator is a harmonic alignment tool — a tuner designed to help you discover your **personal resonance frequency**. This is the frequency that your body, breath, and awareness naturally sync with — a tone that feels like home.
+   * The Consciousness Resonator is a harmonic alignment tool, a tuner designed to help you discover your **personal resonance frequency**. This is the frequency that your body, breath, and awareness naturally sync with, a tone that feels like home.
 
    * **Instructions:**
      Begin by humming naturally into the microphone. The Resonator will record your sample and analyze its spectral content to estimate the dominant frequency range. Once playback begins, hum again while adjusting the slider. Your goal is to *match the tone* being played — not just with your ears, but with your body.
@@ -145,11 +145,11 @@ python BinauralLab.py
      * Deepen meditation, intention setting, and relaxation
 
    * **Technical note:**
-     The recorded tone is an estimate — microphones and ambient noise can distort precision. This is not about mathematical exactness, but about discovering a *felt sense of alignment*. Trust your body’s feedback over numerical values.
+     The recorded tone is an estimate, microphones and ambient noise can distort precision. This is not about mathematical exactness, but about discovering a *felt sense of alignment*. Trust your body’s feedback over numerical values.
 
    * Once you've found a satisfying tone, press **⭐ Mark Tone** to save it. The frequency is stored and will appear in the Binaural Lab as a preset titled **“Personal Resonance #...”** so you can use it as the base carrier for any session.
 
-   This tool is a fusion of **somatic exploration**, **frequency attunement**, and **DIY neuroacoustics** — helping you bridge mind and body through a tone uniquely yours.
+   This tool is a fusion of **somatic exploration**, **frequency attunement**, and **DIY neuroacoustics**, helping you bridge mind and body through a tone uniquely yours.
 
 8. **Affirmation Loop**
 
